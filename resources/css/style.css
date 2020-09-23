@@ -25,7 +25,7 @@ body{
    .header--sub-header
    {
     font-size: 21px;
-    color: gray
+    color: grey
    }
 
     /* LINKS */
@@ -40,6 +40,6 @@ body{
       .footer--copyright
       {
         font-size: 21px;
-        color: Gray;
+        color: Grey;
         text-align: right;
       }
